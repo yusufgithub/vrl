@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/vrl/core" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/vrl/core/templates/core" />
+        <option value="$MODULE_DIR$/vrl/feeds/templates/feeds" />
+        <option value="$MODULE_DIR$/vrl/search/templates/search" />
+        <option value="$MODULE_DIR$/vrl/articles/templates/articles" />
+        <option value="$MODULE_DIR$/vrl/messenger/templates/messenger" />
+        <option value="$MODULE_DIR$/vrl/messenger/templates/messenger/includes" />
+        <option value="$MODULE_DIR$/vrl/questions/templates/questions" />
+        <option value="$MODULE_DIR$/vrl/templates" />
+        <option value="$MODULE_DIR$/vrl/activities/templates/activities" />
+        <option value="$MODULE_DIR$/vrl/authentication/templates/authentication" />
+      </list>
+    </option>
+  </component>
+</module>
